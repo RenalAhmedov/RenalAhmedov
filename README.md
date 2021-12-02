@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenalAhmedov
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... C# and JavaScript @ SoftUni
 - 📫 How to reach me ... renalahmedov4@gmail.com
 
 <!---
